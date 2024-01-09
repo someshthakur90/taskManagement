@@ -4,6 +4,10 @@
 <h2>Java 17, mysql 8</h2>
 <h2>Spring boot, Spring data Jpa, Spring Validate, Spring Security</h2>
 <h2>Maven Build tool</h2>
+<h1>Programming Principles used </h1>
+<h2> Object Oriented Design</h2>
+<h2>Exception Handling</h2>
+<h2>Authentication and Validation</h2>
 <h1>API EndPoints</h1>
 <h2>/getTask method : get retrieves all Tasks</h2>
 <h2>/getTask/{id} method : get Retrieves one task based on id</h2>
