@@ -1,4 +1,5 @@
 <h1> Task Management Backend API</h1>
+<h2> A REST API that manipulates entity of Type "Task" POJP</h2>
 <h1>Technologies and programming langs used </h1>
 <h2>Java 17, mysql 8</h2>
 <h2>Spring boot, Spring data Jpa, Spring Validate, Spring Security</h2>
@@ -17,3 +18,4 @@
 <h2>3.Run mysql server and create and use "mock" db </h2>
 <h2>4,Fire the URLs from postman API</h2>
 <h2> Another way of running the project is to clone the project and run in IDE(I used IntelliJ) with mysql server running</h2>
+<h2>Any suggestion and improvements are Welcome</h2>
