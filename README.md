@@ -27,8 +27,10 @@
 <h2> Another way of running the project is to clone the project and run in IDE(I used IntelliJ) with mysql server running</h2>
 <h2>Any suggestion and improvements are Welcome</h2>
 <j2>JSON Payload</j2>
-<j3>{"taskDescription" "String ",
-      "taskDate":yy-mm-dd
+<j3>{ "taskId" : int,    
+      "taskDescription" String,
+      "completionDate":yy-mm-dd,
+      "completed" : boolean
                             }</j3>
                             
 <h3> taskId is auto incremented and isCompleted boolean value will accept default false on adding a payload it will cange when you use "/updateTask/{id} put method </h3>
