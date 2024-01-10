@@ -9,6 +9,7 @@
 <h2>Exception Handling</h2>
 <h2>Authentication and Validation</h2>
 <h1>API EndPoints</h1>
+<h2>runs on port : 8080</h2>
 <h2>/getTask method : get retrieves all Tasks</h2>
 <h2>/getTask/{id} method : get Retrieves one task based on id</h2>
 <h2>/addTask method : post addd task </h2>
