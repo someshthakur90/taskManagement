@@ -16,6 +16,7 @@
 <h2>/updateTask/{id} method : put update isDone field, request param isDone : boolean(true) (http://localhost:8080/updateTask/1?isDone=true)</h2>
 <h2>/updateTask/{id}/taskDescription method : put updates taskDescription FIeld, req param : taskDescription </h2>
 <h2>/updateTask/{id}/taskDate method : put updates taskDate Field, req param : completionDate (updateTask/1/taskDate?completionDate:yyyy-mm-dd)</h2>
+<h2>kindly look up the controller class in controllers package under any confusion regarding api endpoints.</h2>
 <h1>How to set up and run</h1>
 <h2>1.Download jar file from release section of the project </h2>
 <h2>2.Run the Jar file on terminal </h2>
