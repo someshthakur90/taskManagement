@@ -23,7 +23,7 @@
 <h2>2.Run the Jar file on terminal </h2>
 <h2>3.Run mysql server and create and use "mock" db </h2>
 <h2>4,Fire the URLs from postman API</h2>
-<h2>Use username : "somesh" && password : "somesh@123" for authentication header (verify by looking up Application.properties file</h2>
+<h2>Use username : "somesh" && password : "somesh@123" for authentication(Basic Auth) header (verify by looking up Application.properties file</h2>
 <h2> Another way of running the project is to clone the project and run in IDE(I used IntelliJ) with mysql server running</h2>
 <h2>Any suggestion and improvements are Welcome</h2>
 <j2>JSON Payload</j2>
