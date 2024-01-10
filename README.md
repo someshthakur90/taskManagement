@@ -1,5 +1,5 @@
 <h1> Task Management Backend API</h1>
-<h2> A REST API that manipulates entity of Type "Task" POJP</h2>
+<h2> A REST API that manipulates entity of Type "Task" POJ0</h2>
 <h1>Technologies and programming langs used </h1>
 <h2>Java 17, mysql 8</h2>
 <h2>Spring boot, Spring data Jpa, Spring Validate, Spring Security</h2>
