@@ -13,7 +13,7 @@
 <h2>/getTask/{id} method : get Retrieves one task based on id</h2>
 <h2>/addTask method : post addd task </h2>
 <h2>/deleteTask/{id} method : delete deletes task of id {id}</h2>
-<h2>/updateTask/{id} method : put update isDone field</h2>
+<h2>/updateTask/{id} method : put update isDone field, request param isDone : boolean(true) (http://localhost:8080/updateTask/1?isDone=true)</h2>
 <h2>/updateTask/{id}/taskDescription method : put updates taskDescription FIeld</h2>
 <h2>/updateTask/{id}/taskDate method : put updates taskDate Field</h2>
 <h1>How to set up and run</h1>
